@@ -1,0 +1,18 @@
+body {
+	background:#2E2E2E;
+}
+
+.rollExposureButton {
+	cursor: pointer;
+	width: 150px;
+	height: 70px;
+	background: black;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: grey;
+	font-size: 45px;
+	text-align: center;
+	color: white;
+
+}
+
